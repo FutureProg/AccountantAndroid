@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Accountant</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_view">DetailViewActivity</string>
+    <string name="detail_activity_balance_button">Show Balance Sheet</string>
+    <string name="detail_activity_transaction_button">Show Transactions</string>
+
+    <string-array name="account_type_array">
+        <item>Current Asset</item>
+        <item>Current Liability</item>
+        <item>Long Term Asset</item>
+        <item>Long Term Liability</item>
+        <item>Expense</item>
+        <item>Revenue</item>
+    </string-array>
+</resources>
